@@ -35,8 +35,7 @@
 
 <marquee behavior="scroll" direction="left" scrollamount="8">
 - [LanChat](https://github.com/Ajinkya2441/LanChat) &nbsp;&nbsp; | &nbsp;&nbsp; 
-- [Digital Gate Pass Management System](https://github.com/Ajinkya2441/Digital-Gate-Pass-System) &nbsp;&nbsp; | &nbsp;&nbsp; 
-- [FAQ Chatbot with AI & FastAPI](https://github.com/Ajinkya2441/FAQ-Chatbot)
+
 </marquee>
 
 ---
